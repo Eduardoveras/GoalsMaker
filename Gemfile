@@ -31,6 +31,10 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 gem 'materialize-sass'
+gem 'jquery-rails'
+gem 'acts-as-taggable-on', '~> 5.0'
+
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
